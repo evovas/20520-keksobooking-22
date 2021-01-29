@@ -1,7 +1,7 @@
 # Личный проект «Кексобукинг»
 
 * Студент: [Евгений Вовас](https://up.htmlacademy.ru/javascript/22/user/20520).
-* Наставник: `Неизвестно`.
+* Наставник: [Максим Кузнецов](https://htmlacademy.ru/profile/knenkne).
 
 ---
 
